@@ -1,0 +1,3 @@
+[submodule "extern/libblifparse"]
+	path = extern/libblifparse
+	url = git@github.com:verilog-to-routing/libblifparse.git
